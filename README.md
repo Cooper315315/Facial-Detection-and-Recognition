@@ -58,7 +58,7 @@ Test accuracy = ~0.85
 Test accuracy = ~0.46
 ```
 
-<img width="628" alt="4 1" src="https://user-images.githubusercontent.com/80112729/122376602-dfb29980-cf96-11eb-8770-a0bb709a8f49.png">
+<img width="584" alt="4 1" src="https://user-images.githubusercontent.com/80112729/122376602-dfb29980-cf96-11eb-8770-a0bb709a8f49.png">
 
 
 <h3>***Emotion Prediction***</h3>
@@ -67,7 +67,7 @@ Test accuracy = ~0.46
 Test accuracy = ~0.85
 ```
 
-<img width="684" alt="5 1" src="https://user-images.githubusercontent.com/80112729/122376916-2dc79d00-cf97-11eb-83bf-598bc93391f5.png">
+<img width="584" alt="5 1" src="https://user-images.githubusercontent.com/80112729/122376916-2dc79d00-cf97-11eb-83bf-598bc93391f5.png">
 
 
 
