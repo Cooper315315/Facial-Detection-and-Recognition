@@ -69,5 +69,24 @@ Test accuracy = ~0.85
 
 <img width="584" alt="5 1" src="https://user-images.githubusercontent.com/80112729/122376916-2dc79d00-cf97-11eb-83bf-598bc93391f5.png">
 
+<h3>Challenges</h3>
+
+```
+1. Age prediction on elderly
+Inaccurate prediction on elderly
+Dataset consists small amount of images of elderly, resulting the model was trained witih a skewed dataset
+For an image of elder people below, the age predicton are, 0-2, 3-11 and 25-34, which are inaccurate
+```
+
+<img width="700" alt="7" src="https://user-images.githubusercontent.com/80112729/122378515-9a8f6700-cf98-11eb-8e44-3cd99db7bde8.png">
+
+
+```
+2. Emotion prediciton on "unhappy" emotion
+Inaccurate prediction on unhappy emotion
+The situation is very similar to age prediction. The dataset does not consist enough images with unhappy emotion, the dataset was also skewed. 
+For an image of unhappy person below, the emotion prediction should be "unhappy", but the model predicted "Neutral", the result is not desirable for emotion prediction
+```
+<img width="1375" alt="8" src="https://user-images.githubusercontent.com/80112729/122379921-e8f13580-cf99-11eb-921b-e9734321e429.png">
 
 
