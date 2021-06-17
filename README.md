@@ -30,7 +30,7 @@ Reference:
 https://www.kaggle.com/jangedoo/utkface-new
 <br>
 <br>
-2. EMOTION
+2. EMOTION 
 <br>
 35K+ cropped face images 
 <br>
