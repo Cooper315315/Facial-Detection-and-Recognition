@@ -89,4 +89,15 @@ For an image of unhappy person below, the emotion prediction should be "unhappy"
 ```
 <img width="1375" alt="8" src="https://user-images.githubusercontent.com/80112729/122379921-e8f13580-cf99-11eb-921b-e9734321e429.png">
 
+<h3>Conclusion</h3>
+<br>
+ - High accuracy (~80%) on gender and emotion, but not for age (~46%).
+<br>
+<br>
+ - Skewed dataset impact the model's accuracy significantly. 
+<br>
+<br>
+ - The fewer the classes, the more accurate the model can be.
+<br>
+
 
