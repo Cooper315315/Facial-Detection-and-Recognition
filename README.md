@@ -100,5 +100,3 @@ For an image of unhappy person below, the emotion prediction should be "unhappy"
 <br>
  - The fewer the classes, the more accurate the model can be.
 <br>
-
-
