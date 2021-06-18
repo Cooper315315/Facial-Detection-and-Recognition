@@ -6,6 +6,7 @@ Detect faces, predict gender, age & emotion
 
 <h3>Business Values</h3>
 Shopping mall & shops - marketing campaign 
+<br>
 Smart marketing - Advertisement
 
 
